@@ -1,13 +1,7 @@
 # PHP symfony environment
 Docker environment required to run Symfony (based on official php and mysql docker hub repositories).
 
-[![Actions Status](https://github.com/systemsdk/docker-apache-php-symfony/workflows/Symfony%20App/badge.svg)](https://github.com/systemsdk/docker-apache-php-symfony/actions)
-[![CircleCI](https://circleci.com/gh/systemsdk/docker-apache-php-symfony.svg?style=svg)](https://circleci.com/gh/systemsdk/docker-apache-php-symfony)
-[![Coverage Status](https://coveralls.io/repos/github/systemsdk/docker-apache-php-symfony/badge.svg)](https://coveralls.io/github/systemsdk/docker-apache-php-symfony)
-[![Latest Stable Version](https://poser.pugx.org/systemsdk/docker-apache-php-symfony/v)](https://packagist.org/packages/systemsdk/docker-apache-php-symfony)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-[Source code](https://github.com/systemsdk/docker-apache-php-symfony.git)
+[Source code](https://github.com/rami-aouinti/SymfonyApp.git)
 
 ## Requirements
 * Docker version 18.06 or later
@@ -277,6 +271,3 @@ Notes: Please see more commands in Makefile
 6. When PR is approved, it will be squashed & merged, into `develop` and later merged into `release/{No}` for deployment.
 
 Note: You can find git flow detail example [here](https://danielkummer.github.io/git-flow-cheatsheet).
-
-## License
-[The MIT License (MIT)](LICENSE)
